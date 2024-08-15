@@ -22,6 +22,7 @@ This repository contains the code and sample dataset for tracking objects using 
 
 3. **Run the Tracking Process:**
    - After making the necessary modifications, run the following command in the terminal:
+
    ```bash
    python 3D_TRACKING.py
 
@@ -36,7 +37,8 @@ This repository contains the code and sample dataset for tracking objects using 
 
 2. **Run the Tracking Process:**
    - After modifying the path, run the following command in the terminal:
-   '''bash
+     
+   ```bash
    python 2D_TRACKING.py
 
 ---
