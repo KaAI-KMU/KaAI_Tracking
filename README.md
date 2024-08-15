@@ -21,8 +21,8 @@ This repository contains the code and sample dataset for tracking objects using 
    - Modify the folder name in `lines 207 and 208` to match the format `2024xxxx_drive_`, where `xxxx` should be adjusted accordingly.
 
 3. **Run the Tracking Process:**
-   - After making the necessary modifications, run the Python script in the terminal.
-   ```python
+   - After making the necessary modifications, run the following command in the terminal:
+   ```bash
    python 3D_TRACKING.py
 
 4. **Validate Results:**
@@ -35,7 +35,9 @@ This repository contains the code and sample dataset for tracking objects using 
    - Modify the path in `line 81` to point to the directory containing the 2D labels for the forward camera.
 
 2. **Run the Tracking Process:**
-   - Run the Python script in the terminal to complete the 2D tracking process.
+   - After modifying the path, run the following command in the terminal:
+   '''bash
+   python 2D_TRACKING.py
 
 ---
 
