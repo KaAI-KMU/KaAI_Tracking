@@ -1,4 +1,4 @@
-# KaAI-DD Multimodal Object Tracking System
+# Multimodal Object Tracking System for KaAI-DD
 
 This repository contains the code and sample dataset for tracking objects using the KaAI-DD dataset. The system combines image and LiDAR data, leveraging a Kalman filter and the Hungarian algorithm for efficient and accurate real-time tracking.
 
