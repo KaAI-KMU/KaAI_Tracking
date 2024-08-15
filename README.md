@@ -22,6 +22,8 @@ This repository contains the code and sample dataset for tracking objects using 
 
 3. **Run the Tracking Process:**
    - After making the necessary modifications, run the Python script in the terminal.
+   ```python
+   python 3D_TRACKING.py
 
 4. **Validate Results:**
    - Validate the tracking results using SustechPoint as per the annotation method described.
@@ -40,3 +42,4 @@ This repository contains the code and sample dataset for tracking objects using 
 ### Notes
 - Ensure all paths are correctly set up before running the tracking scripts.
 - The system is designed for real-time object tracking and is optimized for use with the KaAI-DD dataset.
+- A sample dataset has been provided in this repository to help you get started.
